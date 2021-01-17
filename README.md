@@ -2,8 +2,10 @@
 
 this is a selenium framework for e-commerce application. 
 
-it consists of 3 packages - genericlibs, pom & testscripts. 
-genericlibs contains generic classes for the actions to be performed in the app, pom contains page classes for each page of the app, testscripts contains test cases for the app.
+it consists of following class files :- 
+generic class files ---> conatins utility methods for the actions to be performed in the app
+pom class files ---> contains page object classes for each page of the app
+testscripts classes ---> contains test cases for the app.
 
 here, testdata is taken from excel sheet and test reports are also generated using TestNG.
 
